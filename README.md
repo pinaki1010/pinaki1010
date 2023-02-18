@@ -1,4 +1,4 @@
-[![MasterHead]([https://github.com/pinaki1010/pinaki1010/blob/main/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif])]
+[![MasterHead]([https://github.com/pinaki1010/pinaki1010/blob/main/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif])!]
 <h1 align="center">Hi 👋, I'm Pinaki Nandan Hota</h1>
 <h3 align="center">A passionate Java Developer !! from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
