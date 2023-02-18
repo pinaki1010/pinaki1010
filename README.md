@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/harrymalusare" target="blank"><img src="https://img.shields.io/twitter/follow/harrymalusare?logo=twitter&style=for-the-badge" alt="harrymalusare" /></a> </p>
 
-//- 🔭 I’m currently working on **Axis Bank Ltd. as Java Developer**
 
 - 🌱 I’m currently learning **React Js ,Spring Boot , Next JS,Redux,AWS..**
 
@@ -30,14 +29,7 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/Harry-Hub-5455/github-trends/badge.svg?t=jQQ3FK)](https://coveralls.io/github/Harry-Hub-5455/github-trends)
 
-## SPECIAL: GitHub Wrapped
 
-Check out your GitHub Wrapped at `githubtrends.io/wrapped`!
-
-![github-wrapped](https://user-images.githubusercontent.com/16708871/204590479-556eb628-a7bd-45c0-9b35-9171c3891f12.png)
-
-
----
 
 ## What is GitHub Trends
 
