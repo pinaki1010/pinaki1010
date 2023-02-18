@@ -1,5 +1,5 @@
 <p align="center">
-  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
+  <img alig src="https://github.com/pinaki1010/pinaki1010/blob/main/1_IRGHmiGsa16stedQvIaZfw.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Pinaki Nandan Hota</h1>
 <h3 align="center">A passionate Java Developer !! from India</h3>
