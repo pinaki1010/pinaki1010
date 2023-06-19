@@ -88,6 +88,13 @@ Let's collaborate, innovate, and build amazing software together! 😄
 <a href="https://twitter.com/pinaki-nandan-hota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harrymalusare" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pinaki-nandan-hota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harrymalusare" height="30" width="40" /></a>
 <a href="https://instagram.com/pinaki_nandan_hota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harrymalusare5455/harry5455" height="30" width="40" /></a>
+ <h2> Thank you for visiting my profile </h2>                                                                                                                      
+ <table>
+        <tr>
+             <td><h3> Visitors: </h3></td>
+             <td><img src="https://profile-counter.glitch.me/Kumar-laxmi/count.svg"></td>                                                                     
+        </tr>                                                                                             
+ </table>
 
 
 
