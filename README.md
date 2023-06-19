@@ -38,7 +38,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010"/><img height="200" width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinaki1010"/>
 <br>
-<img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=pinaki1010"/></br>
+<img width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=pinaki1010"/></br>
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=pinaki1010"/>
 </br>
