@@ -34,7 +34,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 <br/>
 
 [<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpinaki1010"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759" /></a>](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759)
-![Github Followers](https://img.shields.io/github/followers/pinaki1010?label=Github%20Connection&style=flat)
+
 
 <br/>
 
@@ -44,7 +44,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 <a href="https://linkedin.com/in/pinaki-nandan-hota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harrymalusare" height="30" width="40" /></a>
 <a href="https://instagram.com/pinaki_nandan_hota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harrymalusare5455/harry5455" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
