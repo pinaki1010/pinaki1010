@@ -33,7 +33,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 
 <br/>
 
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpinaki1010"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759" /></a>
+[<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpinaki1010"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759" /></a>](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759)
 ![Github Followers](https://img.shields.io/github/followers/pinaki1010?label=Github%20Connection&style=flat)
 
 <br/>
