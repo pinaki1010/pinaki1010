@@ -40,7 +40,8 @@ Let's collaborate, innovate, and build amazing software together! 😄
 # Profile Summary
 
 <div class="row">
-[<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpinaki1010"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759" /></a>](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759) <a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpinaki1010%2Fhit-counter"/></a><img src="https://img.shields.io/github/followers/pinaki1010.svg?style=social&label=Follow&maxAge=2592000"/>
+[<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpinaki1010"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759" /></a>](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759) <a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpinaki1010%2Fhit-counter"/></a>
+ <img src="https://img.shields.io/github/followers/pinaki1010.svg?style=social&label=Follow&maxAge=2592000"/>
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010&theme=blue-green"/><img height="200" width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinaki1010"/>
