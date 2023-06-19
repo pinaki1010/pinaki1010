@@ -51,10 +51,10 @@
 
 🌐 Check out my portfolio and projects at https://github.com/pinaki1010.
 
-
+# Let's collaborate, innovate, and build amazing software together! 😄
 ```
 
-## Let's collaborate, innovate, and build amazing software together! 😄
+
 
 # Profile Summary
 
