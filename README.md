@@ -26,10 +26,10 @@
 
 🌐 Check out my portfolio and projects at https://github.com/pinaki1010.
 
-Let's collaborate, innovate, and build amazing software together! 😄
+
 ```
 
-Feel free to customize this template to reflect your own experience, skills, and achievements.
+Let's collaborate, innovate, and build amazing software together! 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
