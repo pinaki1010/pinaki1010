@@ -40,7 +40,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 <br>
 <img width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=pinaki1010"/></br>
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=pinaki1010"/>
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=pinaki1010"/>
 </br>
 
 
