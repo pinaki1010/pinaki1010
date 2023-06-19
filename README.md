@@ -58,10 +58,10 @@ Let's collaborate, innovate, and build amazing software together! 😄
 
 
 [<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpinaki1010"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759" /></a>](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759) <a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpinaki1010%2Fhit-counter"/></a>
-
+<div class="row">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010&theme=blue-green"/><img height="200" width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinaki1010"/>
-
 <img width="1000" src="https://github-readme-streak-stats.herokuapp.com/?user=pinaki1010"/></br>
+</div>
 
 <img width="700" src="https://github-profile-trophy.vercel.app/?username=pinaki1010"/>
 
