@@ -58,6 +58,39 @@ Let's collaborate, innovate, and build amazing software together! 😄
 
 # Profile Summary
 
+<br>
+
+<h2> My GitHub Stats</h2>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pinaki1010&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=pinaki1010&theme=algolia&hide_border=true" />
+    </td>                           
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinaki1010&theme=react-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://stats.quine.sh/Kumar-laxmi/github?theme=dark">
+    </td>
+    <td>
+      <img src="https://stats.quine.sh/pinaki1010/languages-over-time?theme=dark">
+    </td>
+  </tr>
+</table>
+
 <div class="row">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010&theme=blue-green"/>
  <img height="200" width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinaki1010"/>
