@@ -61,10 +61,10 @@ Let's collaborate, innovate, and build amazing software together! 😄
 <div class="row">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010&theme=blue-green"/>
  <img height="200" width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinaki1010"/>
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=pinaki1010"/></br>
+<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=pinaki1010"/></br>
 </div>
 
-<img width="700" src="https://github-profile-trophy.vercel.app/?username=pinaki1010"/>
+<img width="800" src="https://github-profile-trophy.vercel.app/?username=pinaki1010"/>
 
 
 
