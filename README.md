@@ -35,7 +35,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 
 [<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpinaki1010"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759" /></a>](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759)
 
-[<a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759">](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpinaki1010%2Fhit-counter)
+[<a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759"><img src="https://camo.githubusercontent.com/d2d55f8fe2aac97664f3fd483c78c6430a0188c5ee85c1b1a2c4b5bb40af1917/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470732533412532462532466769746875622e636f6d253246616c6578616e64726573616e6c696d2532466869742d636f756e74657226636f756e745f62673d253233364441433344267469746c655f62673d2532333535353535352669636f6e3d67726166616e612e7376672669636f6e5f636f6c6f723d253233453745374537267469746c653d6869747326656467655f666c61743d66616c7365"/></a>](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpinaki1010%2Fhit-counter)
 
 <br/>
 
