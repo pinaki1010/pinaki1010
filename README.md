@@ -39,6 +39,8 @@ Let's collaborate, innovate, and build amazing software together! 😄
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010"/>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinaki1010"/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pinaki-nandan-hota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harrymalusare" height="30" width="40" /></a>
