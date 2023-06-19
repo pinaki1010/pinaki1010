@@ -4,6 +4,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Pinaki Nandan Hota</h1>
 <h3 align="center">A passionate Java Developer !! from India</h3>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
