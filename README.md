@@ -35,7 +35,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 
 [<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpinaki1010"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759" /></a>](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759)
 
-[<a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpinaki10101212%2Fhit-counter" /></a>]
+[<a href="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpinaki1010%2Fhit-counter" /></a>]
 
 <br/>
 
