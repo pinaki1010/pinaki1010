@@ -83,7 +83,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 <table>
   <tr>
     <td>
-      <img src="https://stats.quine.sh/Kumar-laxmi/github?theme=dark">
+      <img src="https://stats.quine.sh/pinaki1010/github?theme=dark">
     </td>
     <td>
       <img src="https://stats.quine.sh/pinaki1010/languages-over-time?theme=dark">
