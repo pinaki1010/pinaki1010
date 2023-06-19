@@ -64,7 +64,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 <table>
   <tr>
     <td>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010&theme=blue-green &include_all_commits=true&count_private=true&hide_border=true&theme=algolia"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010&theme=blue-green"/>
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=pinaki1010&theme=algolia&hide_border=true" />
