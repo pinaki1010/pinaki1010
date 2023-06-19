@@ -25,7 +25,8 @@
  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
- [<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpinaki1010"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759" /></a>](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759) <a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759">
+ [<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fpinaki1010"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759" /></a>]
+ <a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpinaki1010%2Fhit-counter"/></a>
 </div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
