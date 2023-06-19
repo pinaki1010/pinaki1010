@@ -31,6 +31,13 @@
 
 Let's collaborate, innovate, and build amazing software together! 😄
 
+<br/>
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=pinaki1010.visitor-badge.issue.1&title=Github%20Visitors)
+![Github Followers](https://img.shields.io/github/followers/pinaki1010?label=Github%20Connection&style=flat)
+
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pinaki-nandan-hota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harrymalusare" height="30" width="40" /></a>
