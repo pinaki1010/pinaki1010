@@ -91,15 +91,6 @@ Let's collaborate, innovate, and build amazing software together! 😄
   </tr>
 </table>
 
-<div class="row">
-
- <img height="200" width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinaki1010"/>
-<img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=pinaki1010"/></br>
-</div>
-
-<img width="800" src="https://github-profile-trophy.vercel.app/?username=pinaki1010"/>
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
