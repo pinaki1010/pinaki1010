@@ -12,21 +12,21 @@
 Sure! Here's a sample GitHub profile bio for a Java Spring Boot developer:
 
 ```plaintext
-👋 Hello, I'm [Pinaki Nandan Hota]!
+👋 Hello, I'm Pinaki Nandan Hota!
 
 👨‍💻 Java Spring Boot Developer | ☁️ Cloud Enthusiast
 
 🌟 Passionate about building scalable and robust applications using Java and Spring Boot. 
 
-💼 Currently working as a [Java Developer] at [Axis Bank Ltd. ].
+💼 Currently working as a Java Developer at Axis Bank Ltd.
 
-🚀 I have [2+] years of experience in software development, specializing in Java, Spring Boot, and related technologies.
+🚀 I have 2+ years of experience in software development, specializing in Java, Spring Boot, and related technologies.
 
-🎓 Post Graduated with a degree in [Computer Science] from [Utkal University].
+🎓 Post Graduated with a degree in Computer Science from Utkal University.
 
 💡 Constantly exploring new technologies and keeping up with the latest trends in the Java ecosystem.
 
-🌐 Check out my portfolio and projects at [[Your Portfolio Website or GitHub Profile URL](https://github.com/pinaki1010)].
+🌐 Check out my portfolio and projects at https://github.com/pinaki1010).
 
 Let's collaborate, innovate, and build amazing software together! 😄
 ```
