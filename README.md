@@ -92,7 +92,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
  <table>
         <tr>
              <td><h3> Visitors: </h3></td>
-             <td><img src="https://profile-counter.glitch.me/Kumar-laxmi/count.svg"></td>                                                                     
+             <td><img src="https://profile-counter.glitch.me/pinaki1010/count.svg"></td>                                                                     
         </tr>                                                                                             
  </table>
 
