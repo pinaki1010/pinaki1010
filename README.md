@@ -1,5 +1,5 @@
 <p align="center">
- <img width="687" alt="Screenshot 2023-06-09 211652" src="https://github.com/pinaki1010/pinaki1010/assets/42297763/24d80664-92e2-4eb3-89e5-cddb6399bb56">
+ <img width="1000" alt="Screenshot 2023-06-09 211652" src="https://github.com/pinaki1010/pinaki1010/assets/42297763/24d80664-92e2-4eb3-89e5-cddb6399bb56">
 
 </p>
 <h1 align="center">Hi 👋, I'm Pinaki Nandan Hota</h1>
