@@ -37,7 +37,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 
 <a href="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpinaki1010&countColor=%23263759"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpinaki1010%2Fhit-counter"/></a>
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
