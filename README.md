@@ -64,7 +64,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pinaki1010&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010&theme=blue-green &show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia"   />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=pinaki1010&theme=algolia&hide_border=true" />
@@ -92,7 +92,7 @@ Let's collaborate, innovate, and build amazing software together! 😄
 </table>
 
 <div class="row">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010&theme=blue-green"/>
+
  <img height="200" width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pinaki1010"/>
 <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=pinaki1010"/></br>
 </div>
