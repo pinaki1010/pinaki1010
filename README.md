@@ -9,12 +9,10 @@
 
 
 
-Sure! Here's a sample GitHub profile bio for a Java Spring Boot developer:
-
 ```plaintext
 👋 Hello, I'm Pinaki Nandan Hota!
 
-👨‍💻 Java Spring Boot Developer | ☁️ Cloud Enthusiast
+👨‍💻 Java Spring Boot Developer | ☁️ Cyber Security Enthusiast
 
 🌟 Passionate about building scalable and robust applications using Java and Spring Boot. 
 
@@ -26,7 +24,7 @@ Sure! Here's a sample GitHub profile bio for a Java Spring Boot developer:
 
 💡 Constantly exploring new technologies and keeping up with the latest trends in the Java ecosystem.
 
-🌐 Check out my portfolio and projects at https://github.com/pinaki1010).
+🌐 Check out my portfolio and projects at https://github.com/pinaki1010.
 
 Let's collaborate, innovate, and build amazing software together! 😄
 ```
@@ -39,7 +37,7 @@ Feel free to customize this template to reflect your own experience, skills, and
 <a href="https://linkedin.com/in/pinaki-nandan-hota/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harrymalusare" height="30" width="40" /></a>
 <a href="https://instagram.com/pinaki_nandan_hota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harrymalusare5455/harry5455" height="30" width="40" /></a>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> 
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a>
 
 
 
