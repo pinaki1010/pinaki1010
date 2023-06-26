@@ -49,7 +49,7 @@
 
 💡 Constantly exploring new technologies and keeping up with the latest trends in the Java ecosystem.
 
-🌐 Check out my portfolio and projects at - https://pinaki1010.github.io/
+🌐 Check out my portfolio and projects at - https://pinaki-nandan-hota.github.io/
 
 # Let's collaborate, innovate, and build amazing software together! 😄
 ```
