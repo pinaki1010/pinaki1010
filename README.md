@@ -47,7 +47,7 @@
 
 🎓 Post Graduated with a degree in Computer Science from Utkal University.
 
-💡 Constantly exploring new technologies and keeping up with the latest trends in the Java ecosystem.
+💡 Constantly exploring new  technologies and keeping up with the latest trends in the Java ecosystem.
 
 🌐 Check out my portfolio and projects at-  https://pinaki-nandan-hota.github.io/
 
