@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="1000" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="1000" />
 </p>
 
 <h1 align="center">
@@ -87,7 +87,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="300" />
+
 </p>
 
 ---
@@ -102,9 +102,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/pinaki1010/count.svg" alt="Visitor Count"/>
-</p>
 
 <p align="center">
   <em>✨ “Quality isn’t tested in — it’s designed in.” ✨</em>
