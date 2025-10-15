@@ -62,8 +62,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pinaki1010&show_icons=true&theme=radical" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pinaki1010&theme=radical&hide_border=true" height="150px"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinaki1010&theme=react-dark&hide_border=true&custom_title=My%20GitHub%20Activity" />
