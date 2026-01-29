@@ -145,56 +145,11 @@
 
 ---
 
-## 🛠️ Tech Stacks
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### **Languages & Frameworks**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### **Test Automation**
-
-![Playwright](https://img.shields.io/badge/Playwright-45BA4B?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white)
-![RestAssured](https://img.shields.io/badge/RestAssured-00A8E8?style=for-the-badge&logo=rest-assured&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### **AI & Machine Learning**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-### **DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### **Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
-
-<div align="center">
-
-### **Tech Stacks**
-
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,react,playwright,cypress,selenium,postman,jenkins,aws,docker,postgresql,mongodb,redis,git,github,vscode" alt="Tech Stack" width="100%" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,nextjs,react,nodejs,fastapi,playwright,cypress,selenium,appium,postman,openai,gemini,langchain,docker,kubernetes,aws,azure,vercel,jenkins,github,postgresql,mongodb,mysql,redis,git,vscode" alt="Tech Stack" width="100%" />
 
 </div>
 
@@ -274,15 +229,16 @@
 
 <div align="center">
 
-🧾 [![ISTQB](https://img.shields.io/badge/ISTQB-Foundation_4.0-6C63FF?style=flat-square&logo=check-circle)](https://www.istqb.org/) 
-🔒 [![CEH](https://img.shields.io/badge/CEH-Practical-6C63FF?style=flat-square&logo=shield-check)](https://www.eccouncil.org/) 
-🧩 [![Java](https://img.shields.io/badge/Java-Certified-ED8B00?style=flat-square&logo=java)](https://www.hackerrank.com/) 
-💾 [![SQL](https://img.shields.io/badge/SQL-Certified-4479A1?style=flat-square&logo=mysql)](https://www.hackerrank.com/)
-
-⚙️ [![Jenkins](https://img.shields.io/badge/Jenkins-Certified-D24939?style=flat-square&logo=jenkins)](https://www.coursera.org/) 
-🧠 [![DSA](https://img.shields.io/badge/DSA-UC_San_Diego-6C63FF?style=flat-square&logo=graduation-cap)](https://www.coursera.org/) 
-🐋 [![Docker](https://img.shields.io/badge/Docker-Certified-2496ED?style=flat-square&logo=docker)](https://www.coursera.org/) 
-☁️ [![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=flat-square&logo=google)](https://www.coursera.org/)
+| Certification | Provider |
+|:---:|:---:|
+| 🧾 **ISTQB Foundation Level 4.0** | UK & Ireland Testing Board |
+| 🔒 **Certified Ethical Hacker (CEH Practical)** | EC-Council |
+| 🧩 **Java Basic Certification** | Hackerrank |
+| 💾 **SQL Basic Certification** | Hackerrank |
+| ⚙️ **Jenkins: Automating Delivery Pipeline** | Coursera |
+| 🧠 **Data Structures & Algorithms** | UC San Diego |
+| 🐋 **Docker Essentials** | Coursera |
+| ☁️ **Technical Support Fundamentals** | Google |
 
 </div>
 
