@@ -270,100 +270,19 @@
 
 </div>
 
-### 🎓 **Certified in Quality Engineering, Security, and DevOps**
+### 🎓 **Professional Certifications**
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+🧾 [![ISTQB](https://img.shields.io/badge/ISTQB-Foundation_4.0-6C63FF?style=flat-square&logo=check-circle)](https://www.istqb.org/) 
+🔒 [![CEH](https://img.shields.io/badge/CEH-Practical-6C63FF?style=flat-square&logo=shield-check)](https://www.eccouncil.org/) 
+🧩 [![Java](https://img.shields.io/badge/Java-Certified-ED8B00?style=flat-square&logo=java)](https://www.hackerrank.com/) 
+💾 [![SQL](https://img.shields.io/badge/SQL-Certified-4479A1?style=flat-square&logo=mysql)](https://www.hackerrank.com/)
 
-#### 🧾 **ISTQB Foundation Level 4.0**
-
-![ISTQB](https://img.shields.io/badge/ISTQB-Foundation_4.0-6C63FF?style=for-the-badge&logo=check-circle&logoColor=white)
-
-**UK & Ireland Testing Board**  
-*International Software Testing Qualification*
-
-</td>
-<td align="center" width="50%">
-
-#### 🔒 **Certified Ethical Hacker (CEH Practical)**
-
-![CEH](https://img.shields.io/badge/CEH-Practical-6C63FF?style=for-the-badge&logo=shield-check&logoColor=white)
-
-**EC-Council**  
-*Ethical Hacking & Security*
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-#### 🧩 **Java Basic Certification**
-
-![Java](https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-**Hackerrank**  
-*Programming Fundamentals*
-
-</td>
-<td align="center" width="50%">
-
-#### 💾 **SQL Basic Certification**
-
-![SQL](https://img.shields.io/badge/SQL-Certified-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Hackerrank**  
-*Database Management*
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-#### ⚙️ **Jenkins: Automating Delivery Pipeline**
-
-![Jenkins](https://img.shields.io/badge/Jenkins-Certified-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**Coursera**  
-*CI/CD Automation*
-
-</td>
-<td align="center" width="50%">
-
-#### 🧠 **Data Structures & Algorithms**
-
-![DSA](https://img.shields.io/badge/DSA-UC_San_Diego-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white)
-
-**UC San Diego**  
-*Algorithm Design & Analysis*
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-#### 🐋 **Docker Essentials**
-
-![Docker](https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-**Coursera**  
-*Containerization & Orchestration*
-
-</td>
-<td align="center" width="50%">
-
-#### ☁️ **Technical Support Fundamentals**
-
-![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**Google**  
-*IT Support & Infrastructure*
-
-</td>
-</tr>
-</table>
+⚙️ [![Jenkins](https://img.shields.io/badge/Jenkins-Certified-D24939?style=flat-square&logo=jenkins)](https://www.coursera.org/) 
+🧠 [![DSA](https://img.shields.io/badge/DSA-UC_San_Diego-6C63FF?style=flat-square&logo=graduation-cap)](https://www.coursera.org/) 
+🐋 [![Docker](https://img.shields.io/badge/Docker-Certified-2496ED?style=flat-square&logo=docker)](https://www.coursera.org/) 
+☁️ [![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=flat-square&logo=google)](https://www.coursera.org/)
 
 </div>
 
