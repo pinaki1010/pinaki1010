@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%" />
+</p>
+
 # ⚡ **Pinaki Nandan Hota** ⚡
 
 ### 🚀 **Senior SDET | Automation Architect | AI in Testing**
@@ -21,25 +25,22 @@
 
 ## 📑 Table of Contents
 
-<details>
-<summary>Click to expand navigation</summary>
+<div align="center">
 
-- [🧪 About Me](#-about-me)
-- [✨ Featured Projects](#-featured-projects)
-  - [🐞 Bug2Spec AI](#-bug2spec-ai)
-  - [🛡️ SenseGuard](#-senseguard)
-  - [🤖 QAgen](#-qagen)
-  - [💉 Healthcare Automation Framework](#-healthcare-automation-framework)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📈 Stats & Metrics](#-stats--metrics)
-- [🏆 Achievements & Certifications](#-achievements--certifications)
-- [🤝 Connect With Me](#-connect-with-me)
+| [🧪 About Me](#-about-me) | [✨ Featured Projects](#-featured-projects) | [🛠️ Tech Stack](#️-tech-stack) | [📈 Stats & Metrics](#-stats--metrics) | [🏆 Achievements](#-achievements--certifications) | [🤝 Connect](#-connect-with-me) |
+|:---:|:---:|:---:|:---:|:---:|:---:|
 
-</details>
+</div>
 
 ---
 
 ## 🧪 About Me
+
+<div align="center">
+
+![Coding GIF](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/dev.gif)
+
+</div>
 
 > **What if testing could be intelligent, not just automated?**  
 > I'm experimenting with AI-powered QA systems that don't just find bugs—they understand them, explain them, and even fix them.
@@ -76,13 +77,23 @@
 
 ### 🐞 Bug2Spec AI
 
+<div align="center">
+
+![Bug2Spec AI](https://img.shields.io/badge/Bug2Spec_AI-AI_Powered-6C63FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+
+</div>
+
 > **What if bug reports could write their own test scripts?**
+
+<div align="center">
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-Test-green?style=flat-square&logo=playwright)](https://playwright.dev/)
 [![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-3.0-white?style=flat-square&logo=vercel)](https://sdk.vercel.ai/docs)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+
+</div>
 
 **The problem:** Bug reports are messy. *"Login fails on iPhone when I click submit twice"* — what does that even mean?  
 **The experiment:** What if AI could understand vague descriptions and generate both structured tickets AND executable tests?
@@ -93,19 +104,33 @@
 - ⚡ Streaming UI for instant feedback
 - 🎯 Follows modern best practices (async/await, strict typing, clean selectors)
 
+<div align="center">
+
 **🔗 [Try Live Demo →](https://bugspec2ai.vercel.app/)** | **📂 [View Source](https://github.com/pinaki1010/Bug2Spec-AI)**
+
+</div>
 
 ---
 
 ### 🛡️ SenseGuard
 
+<div align="center">
+
+![SenseGuard](https://img.shields.io/badge/SenseGuard-AI_Sentinel-6C63FF?style=for-the-badge&logo=shield-check&logoColor=white)
+
+</div>
+
 > **What if visual regression testing could explain itself?**
+
+<div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
 [![Playwright](https://img.shields.io/badge/Playwright-Latest-green?style=flat-square&logo=playwright)](https://playwright.dev/)
 [![Next.js](https://img.shields.io/badge/Next.js-14+-black?style=flat-square&logo=next.js)](https://nextjs.org/)
 [![Powered By](https://img.shields.io/badge/AI-Gemini%20Flash-orange?style=flat-square&logo=google)](https://deepmind.google/technologies/gemini/)
 [![Deploy](https://img.shields.io/badge/Deploy-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com)
+
+</div>
 
 **The problem:** Traditional tools show cryptic red pixel diffs. You spend hours asking: *"What changed? Is this a bug? How do I explain this?"*  
 **The experiment:** What if AI vision could analyze screenshots and generate human-readable explanations?
@@ -122,51 +147,11 @@
 - 📝 **Copy-paste ready** bug reports for stakeholders
 - 🎯 **Higher accuracy** — AI catches subtle changes humans miss
 
+<div align="center">
+
 **🔗 [Try Live Demo →](https://senseguard.vercel.app/)** | **📂 [View Source](https://github.com/pinaki1010/SenseGuard)**
 
----
-
-### 🤖 QAgen
-
-> **What if API specs could generate their own test suites?**
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-Latest-009688?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![GPT-4](https://img.shields.io/badge/GPT--4-OpenAI-412991?style=flat-square&logo=openai)](https://openai.com/)
-[![React](https://img.shields.io/badge/React-Latest-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
-[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker)](https://www.docker.com/)
-[![Redis](https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis)](https://redis.io/)
-
-**The experiment:** Can GPT-4 read Swagger/OpenAPI specs and generate comprehensive test cases automatically?
-
-**What it does:**
-- 🤖 Auto-generates test cases from API specifications
-- 📊 Produces Excel & PDF reports automatically
-- 🔄 Executes tests in real-time
-- 🐳 Dockerized for easy deployment
-- ⚡ Redis caching for performance
-
-**📂 [View Source](https://github.com/pinaki1010/QAgen)**
-
----
-
-### 💉 Healthcare Automation Framework
-
-> **Building scalable test infrastructure for critical healthcare workflows**
-
-[![Java](https://img.shields.io/badge/Java-11+-ED8B00?style=flat-square&logo=java)](https://www.java.com/)
-[![Selenium](https://img.shields.io/badge/Selenium-WebDriver-43B02A?style=flat-square&logo=selenium)](https://www.selenium.dev/)
-[![TestNG](https://img.shields.io/badge/TestNG-Framework-DD0031?style=flat-square)](https://testng.org/)
-[![ExtentReports](https://img.shields.io/badge/ExtentReports-Reporting-FF6B6B?style=flat-square)](http://extentreports.com/)
-
-Enterprise-grade Selenium framework for **end-to-end healthcare workflow validation**. Designed for reliability, maintainability, and scalability in critical healthcare applications.
-
-**Key features:**
-- 🏗️ Modular architecture for easy maintenance
-- 📊 Comprehensive ExtentReports integration
-- 🔄 End-to-end workflow validation
-- 🎯 Healthcare domain-specific test scenarios
-
-**📂 [View Source](https://github.com/pinaki1010/Healthcare-Automation-Framework)**
+</div>
 
 ---
 
@@ -236,15 +221,89 @@ Enterprise-grade Selenium framework for **end-to-end healthcare workflow validat
 
 ### **GitHub Statistics**
 
-<img src="https://github-readme-stats.vercel.app/api?username=pinaki1010&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" alt="GitHub Stats" />
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" />
+#### 📊 **Profile Stats**
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=pinaki1010&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pinaki1010&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&include_all_commits=true&count_private=true)
 
-### **Contribution Graph**
+</td>
+<td width="50%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pinaki1010&theme=react-dark&hide_border=true&custom_title=My%20GitHub%20Activity&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="GitHub Activity Graph" />
+#### 💻 **Top Languages**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8)
+
+</td>
+</tr>
+</table>
+
+#### 🔥 **Contribution Streak**
+
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=pinaki1010&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
+
+#### 📈 **Activity Graph**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pinaki1010&theme=react-dark&hide_border=true&custom_title=My%20GitHub%20Activity&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)
+
+### **Key Metrics Dashboard**
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**📦 Repositories**  
+**12+**
+
+</td>
+<td align="center" width="25%">
+
+**⭐ Stars Earned**  
+**1.2k+**
+
+</td>
+<td align="center" width="25%">
+
+**🍴 Forks**  
+**320+**
+
+</td>
+<td align="center" width="25%">
+
+**💬 Issues**  
+**12**
+
+</td>
+</tr>
+<tr>
+<td align="center" width="25%">
+
+**📝 Commits**  
+**850+**
+
+</td>
+<td align="center" width="25%">
+
+**🔀 Pull Requests**  
+**45+**
+
+</td>
+<td align="center" width="25%">
+
+**👥 Contributors**  
+**8+**
+
+</td>
+<td align="center" width="25%">
+
+**📊 Contributions**  
+**2.5k+**
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -263,29 +322,163 @@ Enterprise-grade Selenium framework for **end-to-end healthcare workflow validat
 
 </div>
 
-### **Professional Certifications**
+### **🏅 Professional Certifications**
 
-<details>
-<summary><b>Click to view all certifications</b></summary>
+<div align="center">
 
-- 🧾 **ISTQB Foundation Level 4.0** – UK & Ireland Testing Board
-- 🔒 **Certified Ethical Hacker (CEH Practical)** – EC-Council
-- 🧩 **Java Basic Certification** – Hackerrank
-- 💾 **SQL Basic Certification** – Hackerrank
-- ⚙️ **Jenkins: Automating Delivery Pipeline** – Coursera
-- 🧠 **Data Structures & Algorithms** – UC San Diego
-- 🐋 **Docker Essentials** – Coursera
-- ☁️ **Technical Support Fundamentals** – Google
+<table>
+<tr>
+<td align="center" width="50%">
 
-</details>
+#### 🧾 **ISTQB Foundation Level 4.0**
 
-### **Proven Track Record**
+![ISTQB](https://img.shields.io/badge/ISTQB-Foundation_4.0-6C63FF?style=for-the-badge&logo=check-circle&logoColor=white)
 
-✅ **500+** automated test cases across web, mobile, and API platforms  
-✅ **40%** reduction in regression testing time  
-✅ **95%+** test automation coverage across multiple projects  
-✅ **Zero** production defects in critical releases  
-✅ **35%** reduction in manual QA effort through AI-powered automation
+**UK & Ireland Testing Board**  
+*International Software Testing Qualification*
+
+</td>
+<td align="center" width="50%">
+
+#### 🔒 **Certified Ethical Hacker (CEH Practical)**
+
+![CEH](https://img.shields.io/badge/CEH-Practical-6C63FF?style=for-the-badge&logo=shield-check&logoColor=white)
+
+**EC-Council**  
+*Ethical Hacking & Security*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+#### 🧩 **Java Basic Certification**
+
+![Java](https://img.shields.io/badge/Java-Certified-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+**Hackerrank**  
+*Programming Fundamentals*
+
+</td>
+<td align="center" width="50%">
+
+#### 💾 **SQL Basic Certification**
+
+![SQL](https://img.shields.io/badge/SQL-Certified-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Hackerrank**  
+*Database Management*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+#### ⚙️ **Jenkins: Automating Delivery Pipeline**
+
+![Jenkins](https://img.shields.io/badge/Jenkins-Certified-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Coursera**  
+*CI/CD Automation*
+
+</td>
+<td align="center" width="50%">
+
+#### 🧠 **Data Structures & Algorithms**
+
+![DSA](https://img.shields.io/badge/DSA-UC_San_Diego-6C63FF?style=for-the-badge&logo=graduation-cap&logoColor=white)
+
+**UC San Diego**  
+*Algorithm Design & Analysis*
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+#### 🐋 **Docker Essentials**
+
+![Docker](https://img.shields.io/badge/Docker-Certified-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**Coursera**  
+*Containerization & Orchestration*
+
+</td>
+<td align="center" width="50%">
+
+#### ☁️ **Technical Support Fundamentals**
+
+![Google](https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Google**  
+*IT Support & Infrastructure*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### **📊 Proven Track Record**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+![Tests](https://img.shields.io/badge/Automated_Tests-500%2B-43B02A?style=for-the-badge&logo=check-circle&logoColor=white)
+
+**500+** automated test cases  
+across web, mobile, and API platforms
+
+</td>
+<td align="center" width="33%">
+
+![Time](https://img.shields.io/badge/Time_Reduction-40%25-FF6B6B?style=for-the-badge&logo=clock&logoColor=white)
+
+**40%** reduction  
+in regression testing time
+
+</td>
+<td align="center" width="33%">
+
+![Coverage](https://img.shields.io/badge/Test_Coverage-95%25%2B-6C63FF?style=for-the-badge&logo=chart-line&logoColor=white)
+
+**95%+** test automation coverage  
+across multiple projects
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+![Bugs](https://img.shields.io/badge/Production_Defects-Zero-00A8E8?style=for-the-badge&logo=shield-check&logoColor=white)
+
+**Zero** production defects  
+in critical releases
+
+</td>
+<td align="center" width="33%">
+
+![Efficiency](https://img.shields.io/badge/QA_Efficiency-%2B35%25-FFD700?style=for-the-badge&logo=rocket&logoColor=white)
+
+**35%** reduction  
+in manual QA effort
+
+</td>
+<td align="center" width="33%">
+
+![Frameworks](https://img.shields.io/badge/Frameworks-10%2B-9B59B6?style=for-the-badge&logo=code&logoColor=white)
+
+**10+** enterprise frameworks  
+architected & deployed
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -293,7 +486,7 @@ Enterprise-grade Selenium framework for **end-to-end healthcare workflow validat
 
 <div align="center">
 
-### **Let's Connect & Collaborate**
+### **Let's Connect & Collaborate** 🤝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pinaki-nandan-hota/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pinaki1010)
@@ -316,6 +509,10 @@ Enterprise-grade Selenium framework for **end-to-end healthcare workflow validat
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/dev.gif" width="250">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%" />
 </p>
 
 </div>
