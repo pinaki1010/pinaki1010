@@ -53,7 +53,7 @@
 - **Natural language test automation** — What if you could test by describing what you want?
 
 **📊 Proven impact:**
-- **8+ years** pushing boundaries in Automation, API, and AI-driven testing
+- **5+ years** pushing boundaries in Automation, API, and AI-driven testing
 - **10+ enterprise frameworks** architected across fintech & SaaS
 - **35%+ reduction** in manual QA effort through AI innovation
 - **85%+ test coverage** achieved with intelligent automation
@@ -155,10 +155,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### **Test Automation**
 
@@ -179,9 +176,7 @@
 ### **DevOps & Cloud**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -199,7 +194,7 @@
 
 ### **Interactive Tech Icons**
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,nextjs,react,nodejs,fastapi,playwright,cypress,selenium,postman,jenkins,aws,docker,kubernetes,postgresql,mongodb,redis,git,github,vscode" alt="Tech Stack" width="100%" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,react,playwright,cypress,selenium,postman,jenkins,aws,docker,postgresql,mongodb,redis,git,github,vscode" alt="Tech Stack" width="100%" />
 
 </div>
 
@@ -208,35 +203,6 @@
 ## 📈 Stats & Metrics
 
 <div align="center">
-
-### 🚀 **My GitHub Impact**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 📊 **Profile Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pinaki1010&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&include_all_commits=true&count_private=true)
-
-</td>
-<td width="50%">
-
-#### 💻 **Top Languages**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pinaki1010&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8)
-
-</td>
-</tr>
-</table>
-
-#### 🔥 **Contribution Streak**
-
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=pinaki1010&theme=radical&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)
-
-#### 📈 **Activity Graph**
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pinaki1010&theme=react-dark&hide_border=true&custom_title=My%20GitHub%20Activity&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)
 
 ### 📊 **GitHub Snapshot**
 
