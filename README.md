@@ -192,7 +192,7 @@
 
 <div align="center">
 
-### **Interactive Tech Icons**
+### **Tech Stacks**
 
 <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,react,playwright,cypress,selenium,postman,jenkins,aws,docker,postgresql,mongodb,redis,git,github,vscode" alt="Tech Stack" width="100%" />
 
@@ -263,7 +263,7 @@
 
 ### **Key Metrics**
 
-[![Experience](https://img.shields.io/badge/Experience-8%2B%20Years-6C63FF?style=for-the-badge)](https://github.com/pinaki1010)
+[![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-6C63FF?style=for-the-badge)](https://github.com/pinaki1010)
 [![Projects](https://img.shields.io/badge/Projects-10%2B%20Architected-6C63FF?style=for-the-badge)](https://github.com/pinaki1010)
 [![Test Coverage](https://img.shields.io/badge/Test%20Coverage-85%25%2B-6C63FF?style=for-the-badge)](https://github.com/pinaki1010)
 [![Efficiency](https://img.shields.io/badge/QA%20Efficiency-%2B35%25-6C63FF?style=for-the-badge)](https://github.com/pinaki1010)
