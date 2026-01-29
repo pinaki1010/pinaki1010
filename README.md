@@ -1,9 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%" />
-</p>
-
 # ⚡ **Pinaki Nandan Hota** ⚡
 
 ### 🚀 **Senior SDET | Automation Architect | AI in Testing**
@@ -35,12 +31,6 @@
 ---
 
 ## 🧪 About Me
-
-<div align="center">
-
-![Coding GIF](https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/dev.gif)
-
-</div>
 
 > **What if testing could be intelligent, not just automated?**  
 > I'm experimenting with AI-powered QA systems that don't just find bugs—they understand them, explain them, and even fix them.
@@ -219,7 +209,7 @@
 
 <div align="center">
 
-### **GitHub Statistics**
+### 🚀 **My GitHub Impact**
 
 <table>
 <tr>
@@ -248,58 +238,50 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pinaki1010&theme=react-dark&hide_border=true&custom_title=My%20GitHub%20Activity&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF)
 
-### **Key Metrics Dashboard**
+### 📊 **GitHub Snapshot**
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 
-**📦 Repositories**  
-**12+**
-
-</td>
-<td align="center" width="25%">
-
-**⭐ Stars Earned**  
-**1.2k+**
+**📦**  
+**Repositories**  
+**<b>12+</b>**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 
-**🍴 Forks**  
-**320+**
-
-</td>
-<td align="center" width="25%">
-
-**💬 Issues**  
-**12**
+**⭐**  
+**Stars Earned**  
+**<b>1.2k+</b>**
 
 </td>
-</tr>
-<tr>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 
-**📝 Commits**  
-**850+**
-
-</td>
-<td align="center" width="25%">
-
-**🔀 Pull Requests**  
-**45+**
+**🍴**  
+**Forks**  
+**<b>320+</b>**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 
-**👥 Contributors**  
-**8+**
+**💬**  
+**Issues**  
+**<b>12</b>**
 
 </td>
-<td align="center" width="25%">
+<td align="center" width="16.66%">
 
-**📊 Contributions**  
-**2.5k+**
+**📝**  
+**Commits**  
+**<b>850+</b>**
+
+</td>
+<td align="center" width="16.66%">
+
+**🔀**  
+**Pull Requests**  
+**<b>45+</b>**
 
 </td>
 </tr>
@@ -322,7 +304,7 @@
 
 </div>
 
-### **🏅 Professional Certifications**
+### 🎓 **Certified in Quality Engineering, Security, and DevOps**
 
 <div align="center">
 
@@ -419,7 +401,7 @@
 
 </div>
 
-### **📊 Proven Track Record**
+### 📊 **Proven Track Record**
 
 <div align="center">
 
@@ -429,7 +411,7 @@
 
 ![Tests](https://img.shields.io/badge/Automated_Tests-500%2B-43B02A?style=for-the-badge&logo=check-circle&logoColor=white)
 
-**500+** automated test cases  
+**<b>500+</b>** automated test cases  
 across web, mobile, and API platforms
 
 </td>
@@ -437,7 +419,7 @@ across web, mobile, and API platforms
 
 ![Time](https://img.shields.io/badge/Time_Reduction-40%25-FF6B6B?style=for-the-badge&logo=clock&logoColor=white)
 
-**40%** reduction  
+**<b>40%</b>** reduction  
 in regression testing time
 
 </td>
@@ -445,7 +427,7 @@ in regression testing time
 
 ![Coverage](https://img.shields.io/badge/Test_Coverage-95%25%2B-6C63FF?style=for-the-badge&logo=chart-line&logoColor=white)
 
-**95%+** test automation coverage  
+**<b>95%+</b>** test automation coverage  
 across multiple projects
 
 </td>
@@ -455,7 +437,7 @@ across multiple projects
 
 ![Bugs](https://img.shields.io/badge/Production_Defects-Zero-00A8E8?style=for-the-badge&logo=shield-check&logoColor=white)
 
-**Zero** production defects  
+**<b>Zero</b>** production defects  
 in critical releases
 
 </td>
@@ -463,7 +445,7 @@ in critical releases
 
 ![Efficiency](https://img.shields.io/badge/QA_Efficiency-%2B35%25-FFD700?style=for-the-badge&logo=rocket&logoColor=white)
 
-**35%** reduction  
+**<b>35%</b>** reduction  
 in manual QA effort
 
 </td>
@@ -471,7 +453,7 @@ in manual QA effort
 
 ![Frameworks](https://img.shields.io/badge/Frameworks-10%2B-9B59B6?style=for-the-badge&logo=code&logoColor=white)
 
-**10+** enterprise frameworks  
+**<b>10+</b>** enterprise frameworks  
 architected & deployed
 
 </td>
@@ -497,6 +479,10 @@ architected & deployed
 
 <div align="center">
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/dev.gif" width="350" />
+</p>
+
 ### ⭐ **Star this repo if you found it useful!** ⭐
 
 **Built with ❤️ by Pinaki Nandan Hota**
@@ -505,14 +491,6 @@ architected & deployed
 
 <p align="center">
   <em>✨ "What if testing could be 10x faster? What if bugs could write their own tests? Let's find out." ✨</em>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/dev.gif" width="250">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%" />
 </p>
 
 </div>
